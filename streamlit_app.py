@@ -6,7 +6,7 @@ st.set_page_config(
     page_title="맥OS 한글 파일명 자소 분리 수정 : A free online converter",
     page_icon="🔁",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
 
 with st.sidebar:
